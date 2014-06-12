@@ -9,19 +9,24 @@ These pieces of code perform various tasks on a data set of Twitter feed, "outpu
 
 The scripts included are:
 
-frequency.py
+`frequency.py`
+
 Outputs the frequency of each term in the tweets.
 
-happiest_state.py
+`happiest_state.py`
+
 Outputs the happiest USA state in the tweets.
 
-term_sentiment.py
+`term_sentiment.py`
+
 Outputs the sentiment score for all terms in the tweets, including new terms.
 
-top_ten.py
+`top_ten.py`
+
 Outputs the top ten hashtags.
 
-tweet_sentiment.py
+`tweet_sentiment.py`
+
 Outputs the sentiment score for each of the tweets in the dataset.
 
 
