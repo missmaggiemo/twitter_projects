@@ -1,10 +1,8 @@
-README
+# README
 
 I created this code for Prof. Bill Howe's Data Science Coursera course.
 
-Here is my Coursera profile:
-
-https://www.coursera.org/user/i/62da43c330791faf1444ba89f764e988
+[Here is my Coursera profile.](https://www.coursera.org/user/i/62da43c330791faf1444ba89f764e988)
 
 
 These pieces of code perform various tasks on a data set of Twitter feed, "output.txt". Each code script describes the task that it performs.
